@@ -1,7 +1,5 @@
-# Project1
-#In this Project I have learn more things
-#importing libraries
-#importing dataset
+# Iris Dataset Project
+#In this Project I have used many things
 #basic pandas library commands
 #bar plot
 #Scatter Plot
